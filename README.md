@@ -2,4 +2,4 @@
 
 [Jiayi Zheng]() and [Xiaodong Cun](http://vinthony.github.io)
 
-GVC Lab @ Great Bay University
+[GVC Lab @ Great Bay University](http://gvclab.github.io)
